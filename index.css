@@ -14,7 +14,6 @@
 }
 .img2{
     grid-area: img2;
-
 }
 .img3{
     grid-area: img3;
@@ -46,8 +45,8 @@
     transform:scaleY(1.2);
 }
 .img5:hover{
-    transform:rotatex(45deg);
+    transform:rotatex(180deg);
 }
 .img6:hover{
-    transform:rotateY(45deg);
+    transform:rotateY(180deg);
 }
